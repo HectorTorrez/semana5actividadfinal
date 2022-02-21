@@ -47,7 +47,7 @@ export default {
       return {
         items: [
           { edad: 21, Primer_Nombre: 'Héctor', Primer_Apellido: 'Torrez', Codigo:'SMIS080319' },
-          
+          { edad: 21, Primer_Nombre: 'Joel', Primer_Apellido: 'Turcios', Codigo:'SMIS020521' },
         ]
       }
     }
